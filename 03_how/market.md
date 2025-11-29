@@ -1,4 +1,4 @@
-# 内省アプリ 競合分析
+# Competitive Analysis
 
 ## 比較サマリー
 
